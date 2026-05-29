@@ -1,9 +1,10 @@
 ## Bem-vindo(a) ao perfil do Gustavo 😁
 
- <div>
-   <a href="https://github.com/gustavomaier917-hue">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavomaier917-hue&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomaier917-hue&layout=compact&langs_count=6&theme=tokyonight"/>
+<div>
+  <a href="https://github.com/gustavomaier917-hue">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavomaier917-hue&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomaier917-hue&layout=compact&langs_count=6&theme=tokyonight"/>
+  </a>
 </div>
     
 <div style="display: inline_block"><br>
